@@ -10,7 +10,7 @@ pygame
 
 1 imagen PNG con un peon Nego
 
-1 imagen PNG copn un peon Blanco
+1 imagen PNG con un peon Blanco
 
 1 imagen PNG con torreo Negra
 
